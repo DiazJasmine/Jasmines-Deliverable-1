@@ -1,0 +1,54 @@
+body{
+    text-align: left;
+    background-color:white;
+    font-family: 'Bungee', cursive;
+}
+ul{
+    text-align: right;
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+li{
+    border:1px white;
+    margin: 0.5em;
+    padding: 0.5em;
+    font-weight: bold;
+}
+h1 {
+font-family:-bungee (google font);
+}
+section{
+    background-color: #ff00ff;
+}
+header {
+    color: #7944e6;
+    background-color: white;
+}
+img{max-width: 50%;
+height: 10;}
+
+section-class{
+    border-image: 40;
+    border: 3px;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    text-align:center ;
+    border-color:#7944e6 ;
+    border-style: solid;
+    font-size: 130%;
+
+}
+h5{color:#7944e6}
+
+
+#truck-section{
+    display: flex;
+}
